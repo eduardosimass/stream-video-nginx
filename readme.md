@@ -41,7 +41,7 @@ rtmp://localhost:1935/live
 
 ## Para assistir a transmissão 
 
-No chrome com a [ MPEG-DASH + HLS Playback](https://chromewebstore.google.com/detail/native-mpeg-dash-+-hls-pl/cjfbmleiaobegagekpmlhmaadepdeedn) ou no Safari acesse: http://localhost:8081/live/.m3u8
+No chrome com a [ MPEG-DASH + HLS Playback](https://chromewebstore.google.com/detail/native-mpeg-dash-+-hls-pl/cjfbmleiaobegagekpmlhmaadepdeedn)
 
 ## Contribuição
 
