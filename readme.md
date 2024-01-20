@@ -1,6 +1,6 @@
 # Descrição do Projeto
 
-Este projeto consiste em configurar um ambiente de streaming de vídeo usando Docker e Nginx.
+Este projeto consiste em configurar um ambiente de streaming de vídeo usando Docker e Nginx e inspirado no projeto da @lalizita
 
 ## Arquivo docker-compose.yml
 
